@@ -1,4 +1,4 @@
-# Tatiana-Martin
+# Hi, my name is Tatiana-Martin 
 Business Analyst | Strategic Thinker | Data Storyteller
 I am a Business Analyst with a foundational career in Strategic B2B Account Management. My expertise lies at the intersection of commercial strategy and data analytics—taking complex datasets from CRMs and spreadsheets and turning them into actionable insights that drive revenue and operational efficiency.
 I recently completed an intensive Business Analytics program at TripleTen, where I mastered SQL, Tableau, and Python to complement my experience in stakeholder management and revenue forecasting.
